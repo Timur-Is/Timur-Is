@@ -4,3 +4,5 @@
 [![Discord: timur_is](https://img.shields.io/badge/timur__is-5865F2?style=flat&logo=Discord&label=Discord&labelColor=white)](https://discord.com/users/965926629991919636)
 
 I'm a self-taught web developer.
+
+![last updated](https://img.shields.io/github/last-commit/Timur-Is/Timur-Is?style=flat&label=last%20updated)
