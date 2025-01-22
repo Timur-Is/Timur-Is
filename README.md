@@ -8,6 +8,7 @@ Reach me out:
 You can also find me on the following platforms:  
 [![Discord: timur_is](https://img.shields.io/badge/timur__is-5865F2?style=flat&logo=Discord&label=Discord&labelColor=white)](https://discord.com/users/965926629991919636)
 [![Codewars: Timur Is](https://img.shields.io/badge/Timur_Is-B1361E?style=flat&logo=Codewars&logoColor=B1361E&label=Codewars&labelColor=white)](https://www.codewars.com/users/Timur%20Is)
+[![Monkeytype: timur_is](https://img.shields.io/badge/Timur_Is-E2B714?style=flat&logo=Monkeytype&logoColor=E2B714&label=Monkeytype&labelColor=323437)](https://monkeytype.com/profile/timur_is)
 
 ---
 
